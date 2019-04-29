@@ -1,4 +1,5 @@
-DOVDIR:=../dovecot-2.2.6/
+#DOVDIR:=../dovecot-2.2.6/
+DOVDIR:=/usr/include/dovecot
 LIBS:=-ldrac
 LDFLAGS:=-L/usr/local/lib
 
